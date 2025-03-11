@@ -621,7 +621,10 @@ box-shadow: 5px 10px 20px rgba(0, 0, 0, 0.8);
       border-radius: 20px;
       
 }
-
+.clip2{
+width:100%;
+height:400px;
+}
 
 
     .more>li{
