@@ -1,5 +1,4 @@
-
-
+    
    
    class LightBoxImage extends HTMLElement {
   get dialog() {
@@ -186,6 +185,7 @@ document.addEventListener('DOMContentLoaded', function () {
     document.querySelector('.messages-section').classList.remove('show');
   });
 });
+
 
 
 // Animate cards on scroll
